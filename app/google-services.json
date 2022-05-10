@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647487066673",
+    "project_id": "trantanphuoc-e3a5c",
+    "storage_bucket": "trantanphuoc-e3a5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647487066673:android:2474fbba9be28aaa00bb10",
+        "android_client_info": {
+          "package_name": "com.example.a12_19531531_trantanphuoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647487066673-ra7bfu3cjhs6mqthfu0oupfr10t0kjla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhlFWeFDBF9XRMHNV95cH5AV0PEZvVkQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647487066673-ra7bfu3cjhs6mqthfu0oupfr10t0kjla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -88,7 +88,7 @@ public class ListKhoaHocMain extends AppCompatActivity {
 
     public void layDuLieu(){
         List<KhoaHoc> list = new ArrayList<>();
-        mDatabase.child("KhoaHoc").addValueEventListener(new ValueEventListener() {
+        mDatabase.child("khoaHoc").addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot) {
                 list.clear();
